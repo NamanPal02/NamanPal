@@ -24,15 +24,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B00?style=for-the-badge&logo=linkedin&logoColor=FFF3E0)](https://www.linkedin.com/in/namanpal0204)
 [![Email](https://img.shields.io/badge/Email-FFB000?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:Namanpal0204@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF6B00)](https://github.com/Naman-pal-up15)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF6B00)](https://github.com/NamanPal02)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Naman-pal-up15&color=FF6B00&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Naman-pal-up15?style=flat-square&color=FFB000&label=FOLLOWERS&logoColor=FFF3E0)
-![Stars](https://img.shields.io/github/stars/Naman-pal-up15?style=flat-square&color=FF6B00&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=NamanPal02&color=FF6B00&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/NamanPal02?style=flat-square&color=FFB000&label=FOLLOWERS&logoColor=FFF3E0)
+![Stars](https://img.shields.io/github/stars/NamanPal02?style=flat-square&color=FF6B00&label=STARS)
 
 </div>
 
@@ -40,7 +40,7 @@
 
 ### `$ cat about.md`
 
-I'm a fresher Computer Science graduate from ABES Engineering College, passionate about full-stack web development and AI-powered applications. I spend my time building projects, sharpening my DSA fundamentals, and exploring how LLMs can be integrated into real-world products.
+I'm a fresher Computer Science student at ABES Engineering College, passionate about full-stack web development and AI-powered applications. I spend my time building projects, sharpening my DSA fundamentals, and exploring how LLMs can be integrated into real-world products.
 
 ```bash
 ROLE     : Aspiring Software Engineer / Full-Stack Developer
@@ -156,10 +156,10 @@ An AI-based career guidance system designed to help users explore suitable caree
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Naman-pal-up15&show_icons=true&theme=default&bg_color=0D1117&title_color=FF6B00&icon_color=FFB000&text_color=FFF3E0&border_color=FF6B00&hide_border=false" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-pal-up15&background=0D1117&stroke=FF6B00&ring=FF6B00&fire=FFB000&currStreakLabel=FF6B00&sideLabels=FFF3E0&currStreakNum=FFF3E0&sideNums=FFF3E0&dates=FFB000&border=FF6B00" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=NamanPal02&show_icons=true&theme=default&bg_color=0D1117&title_color=FF6B00&icon_color=FFB000&text_color=FFF3E0&border_color=FF6B00&hide_border=false" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanPal02&background=0D1117&stroke=FF6B00&ring=FF6B00&fire=FFB000&currStreakLabel=FF6B00&sideLabels=FFF3E0&currStreakNum=FFF3E0&sideNums=FFF3E0&dates=FFB000&border=FF6B00" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-pal-up15&layout=compact&bg_color=0D1117&title_color=FF6B00&text_color=FFF3E0&border_color=FF6B00&hide_border=false" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanPal02&layout=compact&bg_color=0D1117&title_color=FF6B00&text_color=FFF3E0&border_color=FF6B00&hide_border=false" width="60%" />
 
 </div>
 
@@ -169,7 +169,7 @@ An AI-based career guidance system designed to help users explore suitable caree
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Naman-pal-up15&theme=gruvbox&column=7&margin-w=8&margin-h=8&no-frame=true&no-bg=false)
+![Trophies](https://github-profile-trophy.vercel.app/?username=NamanPal02&theme=gruvbox&column=7&margin-w=8&margin-h=8&no-frame=true&no-bg=false)
 
 </div>
 
@@ -179,7 +179,7 @@ An AI-based career guidance system designed to help users explore suitable caree
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naman-pal-up15&bg_color=0D1117&color=FF6B00&line=FF6B00&point=FFB000&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NamanPal02&bg_color=0D1117&color=FF6B00&line=FF6B00&point=FFB000&area=true&hide_border=true)
 
 </div>
 
@@ -189,13 +189,13 @@ An AI-based career guidance system designed to help users explore suitable caree
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naman-pal-up15&theme=github_dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NamanPal02&theme=github_dark" width="100%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naman-pal-up15&theme=github_dark" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naman-pal-up15&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NamanPal02&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NamanPal02&theme=github_dark" width="49%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naman-pal-up15&theme=github_dark" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naman-pal-up15&theme=github_dark&utcOffset=5.5" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NamanPal02&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NamanPal02&theme=github_dark&utcOffset=5.5" width="49%" />
 
 </div>
 
@@ -205,7 +205,7 @@ An AI-based career guidance system designed to help users explore suitable caree
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Naman-pal-up15/Naman-pal-up15/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/NamanPal02/NamanPal02/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -238,7 +238,7 @@ open_to:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B00?style=for-the-badge&logo=linkedin&logoColor=FFF3E0)](https://www.linkedin.com/in/namanpal0204)
 [![Email](https://img.shields.io/badge/Email-FFB000?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:Namanpal0204@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF6B00)](https://github.com/Naman-pal-up15)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF6B00)](https://github.com/NamanPal02)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FF6B00?style=for-the-badge&logo=leetcode&logoColor=FFF3E0)](https://leetcode.com/naman_pal)
 
 </div>
